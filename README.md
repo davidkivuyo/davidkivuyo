@@ -15,6 +15,6 @@ Our wiki site [wiki.larason.space](https://wiki.larason.space)
 # My newsletter
 Join the mail, i promise no spam and annoying content👇🏼
 
-[Our newsletter](https://davidkivuyo.github.io/portifolio/newsletter.html)
+[Our newsletter](https://profile.larason.space/newsletter.html)
 
 
