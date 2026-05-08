@@ -12,8 +12,8 @@ Join the mail, i promise no spam and annoying content👇🏼
 
 [Our newsletter](https://profile.larason.space/newsletter.html)
 
-# use coderabbit for 4x faster reviews
-coderabbit [install coderabbit on your github](https://coderabbit.link/the-larason)
+## use coderabbit for 4x faster reviews
+Coderabbit [- for faster PR reviews](https://coderabbit.link/the-larason)
 
 
 
