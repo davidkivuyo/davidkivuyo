@@ -9,6 +9,7 @@ Hello there developer👋, i am david i craft and create stunning websites
 
 # My newsletter
 Join the mail, i promise no spam and annoying content👇🏼
+
 [Our newsletter](https://profile.larason.space/newsletter.html)
 
 
