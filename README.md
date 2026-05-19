@@ -9,11 +9,6 @@ Hello there developer👋, i am david i craft and create stunning websites
 
 # My newsletter
 Join the mail, i promise no spam and annoying content👇🏼
-
 [Our newsletter](https://profile.larason.space/newsletter.html)
-
-## use coderabbit for 4x faster reviews
-Coderabbit [- for faster PR reviews](https://coderabbit.link/the-larason)
-
 
 
