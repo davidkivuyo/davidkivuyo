@@ -4,22 +4,22 @@ Hello there developer👋, i am david i craft and create stunning websites
 ## My helpfull sites.....
 
 * search privately our searxng instance
-** [search.larason.space](https://searxng.larason.space)
+  [search.larason.space](https://searxng.larason.space)
   
 * Our git server host
-**  [larason.space](https://larason.space)
+  [larason.space](https://larason.space)
 
 * The portifolio
-** [davidkivuyo.com](https://profile.larason.space)
+  [davidkivuyo.com](https://profile.larason.space)
 
 * Our business website
-** [davidsfurnitures.infinityfree.me](https://davidsfurnitures.infinityfree.me)
+  [davidsfurnitures.infinityfree.me](https://davidsfurnitures.infinityfree.me)
 
 * Our furnitures blog
-**  [davidsfurnitures.site](https://davidsfurnitures.site)
+  [davidsfurnitures.site](https://davidsfurnitures.site)
 
 * Our wiki site
-**  [wiki.larason.space](https://wiki.larason.space)
+  [wiki.larason.space](https://wiki.larason.space)
 
 # host your websites free
 * via our cloudpanel host manager [host.larason.space](https://host.larason.space)
