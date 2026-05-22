@@ -10,9 +10,8 @@ Hello there developer👋, i am david i craft and create stunning websites
 
 # host your websites free
 * via our cloudpanel host manager [host.larason.space](https://host.larason.space)
-
-For php sites, nodejs, static sites and python.
-
+* For php sites, nodejs, static sites and python.
+  
 # My newsletter
 Join the mail, i promise no spam and annoying content👇🏼
 
