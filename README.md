@@ -1,6 +1,7 @@
 # my portifolio
 Hello there developer👋, i am david i craft and create stunning websites
 * my gitlab acc [gtb.com/dk123](https://gitlab.com/davidkivuyo123)
+* About Larason LLC [about.larason](https://about.larason.space)
 
 ## My helpfull sites.....
 * Our git server host
