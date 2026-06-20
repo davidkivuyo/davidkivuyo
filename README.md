@@ -4,28 +4,28 @@ Hello there developer👋, i am david i craft and create stunning websites
 * About Larason LLC [about.larason](https://about.larason.space) - **SITE DOWN**
 
 ## My helpfull sites.....
-* Our git server host- **SITE DOWN**
-  [larason.space](https://larason.space)
+* Our git server host
+  [larason.space](https://larason.space)- **SITE DOWN**
 
-* search privately our searxng instance- **SITE DOWN**
-  [search.larason.space](https://searxng.larason.space)
+* search privately our searxng instance
+  [search.larason.space](https://searxng.larason.space)- **SITE DOWN**
   
-* telemetry free and interactive CODE EDITOR- **SITE DOWN**
-  [codeer.com](https://codeer.larason.space)
+* telemetry free and interactive CODE EDITOR
+  [codeer.com](https://codeer.larason.space)- **SITE DOWN**
 
-* The portifolio- **SITE DOWN**
-  [davidkivuyo.com](https://profile.larason.space)
+* The portifolio
+  [davidkivuyo.com](https://profile.larason.space)- **SITE DOWN**
 
 * Our furnitures blog
   [davidsfurnitures.site](https://davidsfurnitures.site)
 
-* Our wiki site- **SITE DOWN**
-  [wiki.larason.space](https://wiki.larason.space)
+* Our wiki site
+  [wiki.larason.space](https://wiki.larason.space)- **SITE DOWN**
 
 * Our business website
   [davidsfurnitures.infinityfree.me](https://davidsfurnitures.infinityfree.me)
-# host your websites free- **SITE DOWN**
-* via our cloudpanel host manager [host.larason.space](https://host.larason.space)
+# host your websites free
+* via our cloudpanel host manager [host.larason.space](https://host.larason.space)- **SITE DOWN**
 * For php sites, nodejs, static sites and python.
   
 # My newsletter
