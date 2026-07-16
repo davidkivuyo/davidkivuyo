@@ -1,4 +1,4 @@
-# my portifolio
+# my portifolio😎
 Hello there developer👋, i am david i craft and create stunning websites
 * my gitlab acc [gtb.com/dk123](https://gitlab.com/davidkivuyo123)
 
