@@ -6,13 +6,13 @@ Hello there developer👋, i am david i craft and create stunning websites
 * Our business website
   [davidsfurnitures.infinityfree.me](https://davidsfurnitures.infinityfree.me)
   
-* Our furnitures blog
-  [davidsfurnitures.site](https://davidsfurnitures.site)
-  
 ### My newsletter
 * Join the mail, i promise no spam and annoying content 👉 [Our newsletter](https://profile.larason.space/newsletter.html)
 
 # PREVIOUSLY LIVE
+* Our furnitures blog
+  [davidsfurnitures.site](https://davidsfurnitures.site)
+
 * Our git server host
   [larason.space](https://larason.space)- **SITE DOWN**
 
