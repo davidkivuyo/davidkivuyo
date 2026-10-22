@@ -4,6 +4,8 @@ Hello there developer👋, i am david i craft and create stunning websites
 
 ## My helpfull sites.....
 * Our business website
+  [slfurnitures.com](https://slfurnitures.com)
+
   [davidsfurnitures.infinityfree.me](https://davidsfurnitures.infinityfree.me)
   
 ### My newsletter
