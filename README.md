@@ -4,9 +4,8 @@ Hello there developer👋, i am david i craft and create stunning websites
 
 ## My helpfull sites.....
 * Our business website
-  [slfurnitures.com](https://slfurnitures.com)
-
-  [davidsfurnitures.infinityfree.me](https://davidsfurnitures.infinityfree.me)
+* [slfurnitures.com](https://slfurnitures.com)
+* [davidsfurnitures.infinityfree.me](https://davidsfurnitures.infinityfree.me)
   
 ### My newsletter
 * Join the mail, i promise no spam and annoying content 👉 [Our newsletter](https://profile.larason.space/newsletter.html)
